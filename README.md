@@ -1,10 +1,8 @@
 # 🚀 Techfest IIT Bombay – Cyborg Edition Landing Page
 
-A futuristic, responsive landing page inspired by the theme **"The Cyborg Revolution"** for Techfest IIT Bombay.
+A futuristic, responsive landing page inspired by the theme **"Humanity 2.0: The Cyborg Revolution"** for Techfest IIT Bombay.
 
-The project features a cyberpunk-inspired UI with neon green aesthetics, , interactive event reveals, countdown timer, floating particles, and immersive visual effects.
-
-Live Deployment Link:- 
+The project features a cyberpunk-inspired UI with neon green aesthetics, animated neural-network backgrounds, interactive event reveals, countdown timer, floating particles, and immersive visual effects.
 
 ---
 
@@ -14,7 +12,7 @@ This landing page is designed to create an engaging first impression for visitor
 
 ### Theme
 
-**The Cyborg Revolution**
+**Humanity 2.0 – The Cyborg Revolution**
 
 The design represents the convergence of:
 
@@ -40,9 +38,15 @@ The design represents the convergence of:
 ### 🤖 Interactive Hero Section
 
 - Animated Cyborg Head
+- Eye Tracking Effect
+- Rotating HUD Scanner Rings
 - Dynamic Glow Effects
 
+### 🧠 Neural Network Background
 
+- Real-time animated AI-inspired network
+- Connected particle system
+- Responsive canvas rendering
 
 ### 📅 Event Matrix
 
@@ -102,7 +106,10 @@ Techfest-Cyborg-Landing-Page/
 ├── style.css
 ├── script.js
 ├── README.md
-
+│
+└── assets/
+    ├── images/
+    └── icons/
 ```
 
 ---
@@ -133,7 +140,7 @@ No installation, dependencies, or build tools are required.
 
 ### Hero Section
 
-- Heading
+- Humanity 2.0 Heading
 - Register CTA
 - Explore Events CTA
 - Animated Cyborg Head
@@ -177,7 +184,21 @@ Potential upgrades:
 
 ---
 
+## 📸 Screenshots
 
+Add screenshots of:
+
+- Hero Section
+- Event Matrix
+- Countdown Section
+- Technoholix Section
+- Mobile Responsive View
+
+Example:
+
+```md
+![Hero Section](screenshots/hero.png)
+![Events Section](screenshots/events.png)
 ```
 
 ---
@@ -186,6 +207,7 @@ Potential upgrades:
 
 - Futuristic Cyborg Theme
 - Neon Green Cyberpunk Design
+- AI-Inspired Neural Network Background
 - Interactive Event Database
 - Modern Landing Page Experience
 - Fully Responsive Design
