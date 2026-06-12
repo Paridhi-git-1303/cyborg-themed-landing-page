@@ -6,6 +6,7 @@ The project features a cyberpunk-inspired UI with neon green aesthetics, interac
 
 ---
 ## Live Deployment Link:- 
+[View Live Project](https://paridhi-git-1303.github.io/cyborg-themed-landing-page/)
 
 
 ---
